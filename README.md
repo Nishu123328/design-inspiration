@@ -34,7 +34,7 @@ A collection of websites and assets to spark creativity.
 - [Code Bushi](https://codebushi.com/)
 - [Laws of UX](https://lawsofux.com/)
 
-### Design Collection Websites
+### Design Collection Websites:
 
 - [Awwwards](https://www.awwwards.com/)
 - [UI Movement](https://uimovement.com)
